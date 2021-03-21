@@ -4,8 +4,8 @@
 - 💞️ A Keen and Confident student pursuing graduation (B. Tech. IT). Skilled 
      in Coding with HTML , CSS ,Java Script, C , C++,Python with good problem solving skill.
 - 📫 How to reach me - @Shriram-Salunke-045 
--                      instagram- https://instagram.com/shriram.salunke.45?igshid=tniv1lvknmf9
--                      Linkedln- www.linkedin.com/in/shriram-salunke-992303198
+- instagram- https://instagram.com/shriram.salunke.45?igshid=tniv1lvknmf9
+- Linkedln- www.linkedin.com/in/shriram-salunke-992303198
 
 
 <!---
