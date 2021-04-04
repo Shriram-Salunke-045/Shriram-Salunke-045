@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shriram-Salunke-045
-- 👀 I’m interested in IT/Software realated projects plus coding Hackathons.
+- 👀 I’m interested in IT/Software realated projects,Internships, plus coding Hackathons.
 - 🌱 I’m currently learning in Second year Information Technology at VIIT,Pune.
 - 💞️ A Keen and Confident student pursuing graduation (B. Tech. IT). Skilled 
      in Coding with HTML , CSS ,Java Script, C , C++,Python with good problem solving skill.
