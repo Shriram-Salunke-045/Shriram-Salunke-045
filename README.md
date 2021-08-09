@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shriram-Salunke-045
 - 👀 I’m interested in IT/Software realated projects,Internships, plus coding Hackathons.
-- 🌱 I’m currently learning in Second year Information Technology at VIIT,Pune.
+- 🌱 I’m currently learning in Third year Information Technology at VIIT,Pune.
 - 💞️ A Keen and Confident student pursuing graduation (B. Tech. IT). Skilled 
      in C/CPP, Java , Python, Kotlin, Data Structures & Algorithms, Machine learning, Deep 
      learning, Image processing, Android Development, web development, and good in Problem
